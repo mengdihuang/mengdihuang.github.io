@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student in the Social Sciences at the University of Chicago, concentrating in psychology. At University of Chicago, I work with Dr. Fan Yang in the [Human Nature and Potentials Lab](https://voices.uchicago.edu/potentialslab/). 
+I am a master student in the Social Sciences department at the University of Chicago, concentrating in psychology. At University of Chicago, I work with Dr. Fan Yang in the [Human Nature and Potentials Lab](https://voices.uchicago.edu/potentialslab/). 
 
 
