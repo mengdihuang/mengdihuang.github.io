@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student in the Social Sciences department at the University of Chicago, concentrating in psychology. At University of Chicago, I work with Dr. Fan Yang in the [Human Nature and Potentials Lab](https://voices.uchicago.edu/potentialslab/). 
+I recently earned my master degree in Social Sciences from the University of Chicago, concentrating in psychology. At University of Chicago, I was advised by Professor Fan Yang in the [Human Nature and Potentials Lab](https://voices.uchicago.edu/potentialslab/). My research interest is in understanding Eudaimonic well-being, including how positive and negative emotions influence perception of life, how to motivate behaviors that produce high efficiency, and how can we foster meaningful relationships with family, friends, and coworkers. I am currently applying to PhD programs in Social Psychology and business schools. 
 
+Prior to University of Chicago, I spent 4 years as an undergraduate in Social Psychology at University of California, San Diego, where I conducted my honors project with [Dr. Kristen Duke](https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Duke) and [Dr. On Amir](https://rady.ucsd.edu/people/faculty/amir/) on the decaying process of guilt. I was also a research assistant in the [UCSD Emotion Lab](http://oveislab.com/), working on projects regarding emotion regulation and empathy. In addition, I served as a summer research intern for [Dr. Lin Bian](https://littlethinkerslab.weebly.com/) in the Markman Lab at Stanford University. 
 
