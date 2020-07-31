@@ -11,16 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.A. in Social Sciences, University of Chicago, 2020
+* B.S. in Social Psychology, University of California, San Diego, 2019
 
-Work experience
+Awards and Honors
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* M.A. in Social Sciences, University of Chicago, 2020
+* B.S. in Social Psychology, University of California, San Diego, 2019
+
+Research experience
+======
+* 2019 - Present: Graduate Research Assistant
+  * University of Chicago
+  * Duties included: 
+        * Design experiments independently
+        * Pre-register studies and collaborated on IRB proposal
+        * Recruit Participants and run experiments on MTurk
+        * Analyze data using a linear mixed-effect model in R
+        * Prepare poster and oral presentations for conferences
+  * Advisor: Professor Fan Yang
 
 * Fall 2015: Research Assistant
   * Github University
@@ -36,24 +45,44 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Conference Presentations
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Huang, M.** & Yang, F. (under review). What is a Good Life? Benefits to Society and Benefits to Oneself in People's Intuitions of Meaning and Happiness. Poster to be presented Society for Personality and Social Psychology Annual Conference.
+
+ * **Huang, M.**(Panel Organizer), Yang, F. (June 2020). Whose Life is More Meaningful: Benefits to Society and Benefits to Oneself in People’s Intuition of Meaning. Panel talk presented at 2020 MAPSS Virtual Academic Conference
+
+ * **Huang, M.**, Duke, K., & Amir, O. (June 2020). How Guilt Decays: Effects of Rationalization on an Interpersonal Perspective. Poster presented at the 32nd Association for Psychological Science Conference. (Conference Canceled, available [here](https://psychologicalscience.confex.com/psychologicalscience/2020annual/meetingapp.cgi/Paper/32065))
+ 
+ * **Huang, M.**, Duke, K., & Amir, O. (May 2019). How Guilt Decays: Effects of Rationalization on an Interpersonal Perspective. Poster presented at the Annual Psychology Student Research Fair at California State University, San Marcos. San Diego, CA
+ 
+ * **Huang, M.**, Aleibar, D., & Guarrena-Espinosa, L (May 2018) The Effect of comparing Similarities and Differences Through Upward or Downward Social Comparison on Academic Self-Concept. Poster presented at the University of California, San Diego Department of Psychology Honors Program Symposium. San Diego, CA
+
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
+Teaching and Mentoring
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Spring 2018: PSYC70: Research Methods in Psychology
+  * Undergraduate Teaching Assistant
+  * University of California, San Diego
+  * Duties included: 
+        * Led weekly discussion section to cover methodological concepts
+        * Assisted with grading of the course quizzes and exams.
+  * Course Instructor: Dr. David Frederick
+
+* Fall 2018: PSYC 193L: Social Psychology Laboratory Topics 
+  * Undergraduate Teaching Assistant
+  * University of California, San Diego
+  * Duties included: 
+        * Answered questions on research design and SPSS interpretation during office hours.
+        * Assisted with distributing studies on SurveyMonkey.
+  * Course Instructor: Dr. David Frederick
+
+* 2018-2019: Psychology Honors Mentoring Program 
+  * Mentor
+  * University of California, San Diego
+  * Duties included: 
+        * Met with mentees biweekly and supported them to succeed in their coursework and projects.
   
-Service and leadership
+Professional Affiliation
 ======
-* Currently signed in to 43 different slack teams
+* Association for Psychological Science (APS)
