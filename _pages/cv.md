@@ -14,75 +14,84 @@ Education
 * M.A. in Social Sciences, University of Chicago, 2020
 * B.S. in Social Psychology, University of California, San Diego, 2019
 
+
 Awards and Honors
 ======
-* M.A. in Social Sciences, University of Chicago, 2020
-* B.S. in Social Psychology, University of California, San Diego, 2019
+* Maroon Scholar Research Award, University of Chicago, 2019 - 2020
+* Director’s Fellowship, University of Chicago, 2019 - 2020
+* Anderson Undergraduate Travel Award, University of California, San Diego, 2019
+* Marshall College Provost Honors, University of California, San Diego, 2018
+
 
 Research experience
 ======
 * 2019 - Present: Graduate Research Assistant
-  * University of Chicago
+  * [Human Nature and Potentials Lab](https://voices.uchicago.edu/potentialslab/), University of Chicago
   * Duties included: 
         * Design experiments independently
         * Pre-register studies and collaborated on IRB proposal
         * Recruit Participants and run experiments on MTurk
         * Analyze data using a linear mixed-effect model in R
         * Prepare poster and oral presentations for conferences
-  * Advisor: Professor Fan Yang
+  * Advisor: Dr. Fan Yang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - 2019: Undergraduate Honors Student
+  * Rady School of Management, University of California, San Diego
+  * Duties included: Conducted independent research on guilt reduction strategies and the reparative function of guilt. Reviewed literature, designed experiment on Qualtrics, and collected data on SONA. Presented research project in various conferences
+  * Advisor: Dr. Kristen Duke & Dr. On Amir
+ 
+* 2017 - 2019: Research Assistant
+  * [Emotion Lab](http://oveislab.com/), University of California, San Diego
+  * Duties included: Examined empathy and perceived responsiveness in a laboratory setting. Recorded and interpreted physiological signals (blood pressure, heart rate, and respiratory rate). Independently trained new RAs on physiological equipment; Scored physiological data on MindWare. Coded behaviors on Boris; Edited videos for behavioral coding
+  * Supervisor: Dr. Christopher Oveis
+ 
+* Summer 2018: Summer Research Assistant
+  * The Markman Lab, Stanford University
+  * Duties included: Coded survey short answers on people’s inherence heuristics about breakfast. Recruited participants at local preschool. Examined gender stereotype and motivation on children aged from 4 to 6. Performed data entry, cleaning, and visualizations
+  * [Dr. Lin Bian](https://littlethinkerslab.weebly.com/)
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Statistical Software: R, SPSS, JMP
+* Programming Languages: Python
+* Laboratory: Qualtrics, SurveyMonkey, Psychophysiology (ECG, EMG, EEG)
+* Language: Mandarin, Korean
+
 
 Conference Presentations
 ======
-* **Huang, M.** & Yang, F. (under review). What is a Good Life? Benefits to Society and Benefits to Oneself in People's Intuitions of Meaning and Happiness. Poster to be presented Society for Personality and Social Psychology Annual Conference.
+* **Huang, M.** & Yang, F. (under review). *What is a Good Life? Benefits to Society and Benefits to Oneself in People's Intuitions of Meaning and Happiness*. Poster to be presented Society for Personality and Social Psychology Annual Conference.
 
- * **Huang, M.**(Panel Organizer), Yang, F. (June 2020). Whose Life is More Meaningful: Benefits to Society and Benefits to Oneself in People’s Intuition of Meaning. Panel talk presented at 2020 MAPSS Virtual Academic Conference
+* **Huang, M.**(Panel Organizer), Yang, F. (June 2020). *Whose Life is More Meaningful: Benefits to Society and Benefits to Oneself in People’s Intuition of Meaning*. Panel talk presented at 2020 MAPSS Virtual Academic Conference
 
- * **Huang, M.**, Duke, K., & Amir, O. (June 2020). How Guilt Decays: Effects of Rationalization on an Interpersonal Perspective. Poster presented at the 32nd Association for Psychological Science Conference. (Conference Canceled, available [here](https://psychologicalscience.confex.com/psychologicalscience/2020annual/meetingapp.cgi/Paper/32065))
+* **Huang, M.**, Duke, K., & Amir, O. (June 2020). *How Guilt Decays: Effects of Rationalization on an Interpersonal Perspective*. Poster presented at the 32nd Association for Psychological Science Conference. (Conference Canceled, available [here](https://psychologicalscience.confex.com/psychologicalscience/2020annual/meetingapp.cgi/Paper/32065))
  
- * **Huang, M.**, Duke, K., & Amir, O. (May 2019). How Guilt Decays: Effects of Rationalization on an Interpersonal Perspective. Poster presented at the Annual Psychology Student Research Fair at California State University, San Marcos. San Diego, CA
+* **Huang, M.**, Duke, K., & Amir, O. (May 2019). *How Guilt Decays: Effects of Rationalization on an Interpersonal Perspective*. Poster presented at the Annual Psychology Student Research Fair at California State University, San Marcos. San Diego, CA
  
- * **Huang, M.**, Aleibar, D., & Guarrena-Espinosa, L (May 2018) The Effect of comparing Similarities and Differences Through Upward or Downward Social Comparison on Academic Self-Concept. Poster presented at the University of California, San Diego Department of Psychology Honors Program Symposium. San Diego, CA
+* **Huang, M.**, Aleibar, D., & Guarrena-Espinosa, L (May 2018) *The Effect of comparing Similarities and Differences Through Upward or Downward Social Comparison on Academic Self-Concept*. Poster presented at the University of California, San Diego Department of Psychology Honors Program Symposium. San Diego, CA
 
-  
   
 Teaching and Mentoring
 ======
-* Spring 2018: PSYC70: Research Methods in Psychology
+* Spring 2018: **PSYC70: Research Methods in Psychology**
   * Undergraduate Teaching Assistant
   * University of California, San Diego
-  * Duties included: 
-        * Led weekly discussion section to cover methodological concepts
-        * Assisted with grading of the course quizzes and exams.
   * Course Instructor: Dr. David Frederick
+  * Led weekly discussion section to cover methodological concepts. Assisted with grading of the course quizzes and exams.
 
-* Fall 2018: PSYC 193L: Social Psychology Laboratory Topics 
+* Fall 2018: **PSYC 193L: Social Psychology Laboratory Topics**
   * Undergraduate Teaching Assistant
   * University of California, San Diego
-  * Duties included: 
-        * Answered questions on research design and SPSS interpretation during office hours.
-        * Assisted with distributing studies on SurveyMonkey.
   * Course Instructor: Dr. David Frederick
+  * Answered questions on research design and SPSS interpretation during office hours. Assisted with distributing studies on SurveyMonkey.
 
-* 2018-2019: Psychology Honors Mentoring Program 
+* 2018-2019: **Psychology Honors Mentoring Program**
   * Mentor
   * University of California, San Diego
-  * Duties included: 
-        * Met with mentees biweekly and supported them to succeed in their coursework and projects.
-  
+  * Met with mentees biweekly and supported them to succeed in their coursework and projects.
+ 
+ 
 Professional Affiliation
 ======
 * Association for Psychological Science (APS)
