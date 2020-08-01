@@ -23,10 +23,7 @@ Prior to University of Chicago, I spent 4 years as an undergraduate in Social Ps
 <div style="float: right; width: 50%;">
 <ul>
 <h2>Education</h2>
-<li>M.A. in Social Sciences, 2020, University of Chicago</li>
-<li>B.S. in Social Psychology, 2019, University of California, San Diego</li>
-<li>Right Item 3</li>
-<li>Right Item 4</li>
-<li>Right Item 5</li>
+<li><i class="fa fa-graduation-cap" aria-hidden="true"></i>M.A. in Social Sciences, 2020, University of Chicago</li>
+<li><i class="fa fa-graduation-cap" aria-hidden="true"></i>B.S. in Social Psychology, 2019, University of California, San Diego</li>
 </ul>
 </div>
