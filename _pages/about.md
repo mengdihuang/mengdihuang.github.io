@@ -12,14 +12,21 @@ I recently earned my master degree in Social Sciences from the University of Chi
 
 Prior to University of Chicago, I spent 4 years as an undergraduate in Social Psychology at University of California, San Diego, where I conducted my honors project with <a style = "text-decoration:none" href="https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Duke">Dr. Kristen Duke</a> and <a style = "text-decoration:none" href="https://rady.ucsd.edu/people/faculty/amir/">Dr. On Amir</a> on the decaying process of guilt. I was also a research assistant in the <a style = "text-decoration:none" href="http://oveislab.com/">UCSD Emotion Lab</a>, working on projects regarding emotion regulation and empathy. 
 
-<div class="container">
- <blockquote><p>Interests</p></blockquote>
-  <p> * Eudaimonic wellbeing
-      * Emotions
-      * Motivations
-      * Social relationships</p>
-  
-<blockquote><p>Education</p></blockquote>
-
-  <p> * M.A. in Social Sciences, 2020</p>
+<div style="float: left; width: 50%;">
+<ul>
+<h2>Interests</h2>
+<li>Eudaimonic wellbeing</li>
+<li>Emotion</li>
+<li>Motivation</li>
+</ul>
+</div>
+<div style="float: right; width: 50%;">
+<ul>
+<h2>Education</h2>
+<li>M.A. in Social Sciences, 2020, University of Chicago</li>
+<li>B.S. in Social Psychology, 2019, University of California, San Diego</li>
+<li>Right Item 3</li>
+<li>Right Item 4</li>
+<li>Right Item 5</li>
+</ul>
 </div>
