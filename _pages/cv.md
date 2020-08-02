@@ -27,37 +27,20 @@ Research experience
 ======
 * 2019 - Present: Graduate Research Assistant
   * [Human Nature and Potentials Lab](https://voices.uchicago.edu/potentialslab/), University of Chicago
-  * Duties included: 
-        * Design experiments independently
-        * Pre-register studies and collaborated on IRB proposal
-        * Recruit Participants and run experiments on MTurk
-        * Analyze data using a linear mixed-effect model in R
-        * Prepare poster and oral presentations for conferences
   * Advisor: Dr. Fan Yang
 
 * 2018 - 2019: Undergraduate Honors Student
   * Rady School of Management, University of California, San Diego
-  * Duties included: Conducted independent research on guilt reduction strategies and the reparative function of guilt. Reviewed literature, designed experiment on Qualtrics, and collected data on SONA. Presented research project in various conferences
   * Advisor: Dr. Kristen Duke & Dr. On Amir
  
 * 2017 - 2019: Research Assistant
   * [Emotion Lab](http://oveislab.com/), University of California, San Diego
-  * Duties included: Examined empathy and perceived responsiveness in a laboratory setting. Recorded and interpreted physiological signals (blood pressure, heart rate, and respiratory rate). Independently trained new RAs on physiological equipment; Scored physiological data on MindWare. Coded behaviors on Boris; Edited videos for behavioral coding
   * Supervisor: Dr. Christopher Oveis
  
 * Summer 2018: Summer Research Assistant
   * The Markman Lab, Stanford University
-  * Duties included: Coded survey short answers on people’s inherence heuristics about breakfast. Recruited participants at local preschool. Examined gender stereotype and motivation on children aged from 4 to 6. Performed data entry, cleaning, and visualizations
   * [Dr. Lin Bian](https://littlethinkerslab.weebly.com/)
-  
-  
-Skills
-======
-* Statistical Software: R, SPSS, JMP
-* Programming Languages: Python
-* Laboratory: Qualtrics, SurveyMonkey, Psychophysiology (ECG, EMG, EEG)
-* Language: Mandarin, Korean
-
+ 
 
 Conference Presentations
 ======
@@ -92,6 +75,14 @@ Teaching and Mentoring
   * Met with mentees biweekly and supported them to succeed in their coursework and projects.
  
  
+Skills
+======
+* Statistical Software: R, SPSS, JMP
+* Programming Languages: Python
+* Laboratory: Qualtrics, SurveyMonkey, Psychophysiology (ECG, EMG, EEG)
+* Language: Mandarin (Native), Korean (Intermetidate)
+
+
 Professional Affiliation
 ======
 * Association for Psychological Science (APS)
