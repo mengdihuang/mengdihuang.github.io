@@ -3,11 +3,11 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Research Projects"
-    url: /teaching/    
+  - title: "Research"
+    url: /portfolio/   
   
   - title: "CV"
     url: /cv/ 
   
   - title: "Contact"
-    url: /portfolio/
+    url: /teaching/
