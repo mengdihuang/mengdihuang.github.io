@@ -12,7 +12,16 @@ I recently earned my master degree in Social Sciences from the University of Chi
 
 Prior to University of Chicago, I spent 4 years as an undergraduate in Social Psychology at University of California, San Diego, where I conducted my honors project with <a style = "text-decoration:none" href="https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Duke">Dr. Kristen Duke</a> and <a style = "text-decoration:none" href="https://rady.ucsd.edu/people/faculty/amir/">Dr. On Amir</a> on the decaying process of guilt. I was also a research assistant in the <a style = "text-decoration:none" href="http://oveislab.com/">UCSD Emotion Lab</a>, working on projects regarding emotion regulation and empathy. 
 
-<a style = "text-decoration:none" href="https://github.com/mengdihuang/mengdihuang.github.io/blob/master/files/Mengdi%20Huang-phd-app-cv.pdf">cv</a>
+<html lang="fr">
+<head>
+<!-- note the meta tag -->
+<meta http-equiv="refresh" content="0; url=https://github.com/mengdihuang/mengdihuang.github.io/blob/master/files/Mengdi%20Huang-phd-app-cv.pdf" />
+  <meta charset="utf-8">
+  <title>CV</title>
+</head>
+<body>
+</body>
+</html>
 
 <div style="float: left; width: 50%;">
 <ul>
