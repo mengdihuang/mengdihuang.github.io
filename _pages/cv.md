@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching & Menthorship"
-permalink: /teaching/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
