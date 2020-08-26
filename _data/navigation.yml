@@ -6,8 +6,8 @@ main:
   - title: "Research"
     url: /portfolio/   
   
-  - title: "CV"
-    url: /cv/ 
+  - title: "Teaching & Mentorship"
+    url: /teaching/ 
   
-  - title: "Contact"
-    url: /teaching/
+  - title: "Skill"
+    url: /cv/
