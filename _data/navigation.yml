@@ -7,7 +7,7 @@ main:
     url: /portfolio/   
   
   - title: "Teaching & Mentorship"
-    url: /cv/ 
+    url: /teaching/ 
   
   - title: "Skill"
-    url: /teaching/
+    url: /cv/
