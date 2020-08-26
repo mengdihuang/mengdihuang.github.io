@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I served as an undergraduate teaching assistant for two psychology courses at UCSD with <a style = "text-decoration:none" href="https://sites.google.com/site/davidfrederickpsychology/">Dr. David Frederick </a>.
+I served as an undergraduate teaching assistant for two psychology courses at UCSD with <a style = "text-decoration:none" href="https://sites.google.com/site/davidfrederickpsychology/">Dr. David Frederick</a>.
 
 
 * **PSYC70: Research Methods in Psychology**
