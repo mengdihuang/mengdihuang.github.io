@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching & Menthorship"
-permalink: /cv/
+permalink: /teaching/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Teaching and Mentorship
-======
 * Spring 2018: **PSYC70: Research Methods in Psychology**
   * Undergraduate Teaching Assistant
   * University of California, San Diego
