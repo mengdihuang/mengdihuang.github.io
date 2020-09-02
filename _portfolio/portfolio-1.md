@@ -1,6 +1,6 @@
 ---
 title: "Perception of Meaning & Happiness"
-excerpt: "What is considered a good life? <br/><img src='/images/500x300.png'>"
+excerpt: "What is considered a good life? <br/><img src='/images/meaning_project_photo.jpg'>"
 collection: portfolio
 ---
 
