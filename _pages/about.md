@@ -9,7 +9,7 @@ redirect_from:
 ---
 <a style = "text-decoration:none" href="https://mengdihuang.github.io/files/Mengdi%20Huang-phd-app-cv.pdf">CV</a>
 
-I recently earned my master’s degree in Social Sciences from the University of Chicago, with a concentration in Psychology. At the University of Chicago, I have been working with <a style = "text-decoration:none" href="https://voices.uchicago.edu/potentialslab/">Professor Fan Yang</a> on projects regarding people's intuitions of meaning and happiness in life. My research interests center on understanding the self, including self-regulation and self-verification. I am currently applying to Ph.D. programs in Social Psychology or related fields. 
+I recently earned my master’s degree in Social Sciences from the University of Chicago, with a concentration in Psychology. At the University of Chicago, I have been working with <a style = "text-decoration:none" href="https://voices.uchicago.edu/potentialslab/">Professor Fan Yang</a> on projects regarding people's intuitions of meaning and happiness in life. My research interests center on understanding the interplay between the self and morality. In particular, I am interested in the the concepts of self-regulation and self-concordance under a moral context. I am currently applying to Ph.D. programs in Social Psychology or related fields. 
 
 Prior to the University of Chicago, I graduated from the University of California, San Diego, where I conducted my honors project with <a style = "text-decoration:none" href="https:/rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Duke">Dr. Kristen Duke</a> and <a style = "text-decoration:none" href="https://rady.ucsd.edu/people/faculty/amir/">Dr. On Amir</a> on the decaying process of guilt. I was also a research assistant in the <a style = "text-decoration:none" href="http://oveislab.com/">UCSD Emotion Lab</a>, working on projects regarding emotion regulation and empathy. 
 
@@ -18,9 +18,11 @@ Prior to the University of Chicago, I graduated from the University of Californi
 <div style="float: left; width: 50%;">
 <ul>
 <h2>Interests</h2>
-<li>Eudaimonic wellbeing</li>
-<li>Emotion</li>
 <li>Motivation</li>
+<li>Eudaimonic wellbeing</li>
+<li>Morality</li>
+<li>Emotion</li>
+
 </ul>
 </div>
 <div style="float: right; width: 50%;">
