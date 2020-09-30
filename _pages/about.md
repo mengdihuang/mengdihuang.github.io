@@ -18,7 +18,7 @@ Prior to the University of Chicago, I graduated from the University of Californi
 <ul>
 <h2>Interests</h2>
 <li>Motivation</li>
-<li>Eudaimonic wellbeing</li>
+<li>Meaning and Happiness</li>
 <li>Morality</li>
 <li>Emotion</li>
 
