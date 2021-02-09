@@ -12,7 +12,7 @@ redirect_from:
 I recently earned my master’s degree in Social Sciences from the University of Chicago, with a concentration in Social Psychology. At the University of Chicago, I have been working with <a style = "text-decoration:none" href="https://voices.uchicago.edu/potentialslab/">Dr. Fan Yang</a> on projects regarding people's judgments of meaning and happiness in life. 
 <br>
 <br>
-My research interests center on the motivation and social cognition in social and moral contexts. Specifically, I wonder: 
+My research interests center on the motivation and social cognition in social and moral contexts. I am interested in the motivational, emotional, and social factors that help people overcome their limits and self-interests. Specifically, I wonder: 
 <br>
 <li>How do people fulfill their social needs and social goals through different motivational processes?</li>
 <li>How do people's lay beliefs about themselves influence the way they interpret and approach their goals?</li>
