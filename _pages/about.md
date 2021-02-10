@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<a style = "text-decoration:none" href="https://mengdihuang.github.io/files/Mengdi%20Huang-phd-app-cv.pdf">CV</a>
+<a style = "text-decoration:none" href="https://mengdihuang.github.io/files/Mengdi%20Huang-cv-2021.pdf">CV</a>
 
 I recently earned my master’s degree in Social Sciences from the University of Chicago, with a concentration in Social Psychology. At the University of Chicago, I have been working with <a style = "text-decoration:none" href="https://voices.uchicago.edu/potentialslab/">Dr. Fan Yang</a> on projects regarding people's judgments of meaning and happiness in life. 
 <br>
