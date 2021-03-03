@@ -12,10 +12,7 @@ redirect_from:
 I recently earned my master’s degree in Social Sciences from the University of Chicago, with a concentration in Social Psychology. At the University of Chicago, I have been working with <a style = "text-decoration:none" href="https://voices.uchicago.edu/potentialslab/">Dr. Fan Yang</a> on projects regarding people's judgments of meaning and happiness in life. 
 <br>
 <br>
-My research interests center on the motivation and social cognition in social and moral contexts. I am interested in the motivational, emotional, and social factors that help people overcome their limits and self-interests. Specifically, I wonder: 
-<br>
-<li>How do people fulfill their social needs and social goals through different motivational processes?</li>
-<li>How do people's lay beliefs about themselves influence the way they interpret and approach their goals?</li>
+My research interests center on the motivation and social cognition in social and moral contexts. I am interested in the motivational, emotional, and social factors that help people overcome their limits and self-interests. 
 
 <br>
 Prior to the University of Chicago, I graduated from the University of California, San Diego, where I conducted my honors project with <a style = "text-decoration:none" href="https://www.rotman.utoronto.ca/FacultyAndResearch/Faculty/FacultyBios/Duke">Dr. Kristen Duke</a> and <a style = "text-decoration:none" href="https://rady.ucsd.edu/people/faculty/amir/">Dr. On Amir</a> on the decaying process of guilt. I was also a research assistant in the <a style = "text-decoration:none" href="http://oveislab.com/">UCSD Emotion Lab</a>, working on projects regarding emotion regulation and empathy. I value open science practices and am committed to promoting open science in my research.
