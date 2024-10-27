@@ -18,8 +18,9 @@ Before joining Northwestern, I collaborated with <a style = "text-decoration:non
 <div style="float: left; width: 50%;">
 <ul>
 <h2>Interests</h2>
-<li>Motivation</li>
+
 <li>Well-being</li>
+<li>Goal-support</li>
 <li>Self-Concept Clarity</li>
 <li>Social Network</li>
 <li>Gender Stereotype</li>
