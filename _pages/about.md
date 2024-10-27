@@ -24,7 +24,7 @@ Before joining Northwestern, I collaborated with <a style = "text-decoration:non
 <li>Goal-support</li>
 <li>Self-Concept Clarity</li>
 <li>Social Network</li>
-<li>Gender Stereotype</li>
+<li>Gender Stereotyping</li>
 
 </ul>
 </div>
