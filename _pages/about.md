@@ -11,6 +11,7 @@ redirect_from:
 
 I’m currently a Ph.D. candidate in social psychology at Northwestern University, where I work with Drs. Wendi Gardner and Daniel Molden. 
 <br>
+<br>
 Broadly speaking, my research focuses on well-being, and I explore it from two main angles. The first line examines the intrapersonal perspective, focusing on how individuals' self-concept influences their decision-making processes and, subsequently, their well-being. The second line of research takes an interpersonal approach, exploring how individuals seek support and navigate conflict within their social networks.
 
 <br>
