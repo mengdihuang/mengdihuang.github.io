@@ -9,26 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-I served as an undergraduate teaching assistant for two psychology courses at UCSD with <a style = "text-decoration:none" href="https://sites.google.com/site/davidfrederickpsychology/">Dr. David Frederick</a>.
 
-
-* **PSYC70: Research Methods in Psychology**
-  * Undergraduate Teaching Assistant, Spring 2018
-  * Led weekly discussion section to cover methodological concepts. Assisted with grading of the course quizzes and exams.
-  * <a style = "text-decoration:none" href="https://mengdihuang.github.io/files/Huang_Mengdi_Student_IA_Evaluation_-_PSYC_70_-_Research_Methods_in_Psychology_%5BA00%5D_(Frederick_David_A)_-_SP18.pdf">Evaluation</a>
-
-
-
-* **PSYC 193L: Social Psychology Laboratory Topics**
-  * Undergraduate Teaching Assistant, Fall 2018
-  * Answered questions on research design and SPSS interpretation during office hours. Assisted with distributing studies on SurveyMonkey.
-  * <a style = "text-decoration:none" href="https://mengdihuang.github.io/files/Huang_Mengdi_Student_IA_Evaluation_-_PSYC_193L_-_Psychology_Laboratory_Topics_%5BA00%5D_(Frederick_David_A)_-_FA18.pdf">Evaluation</a>
-
-
-
-* 2018-2019: **Psychology Honors Mentoring Program**
-  * Mentor
-  * University of California, San Diego
-  * Met with mentees biweekly and supported them to succeed in their honors coursework and projects.
+I feel incredibly fortunate to teach and mentor amazing students, learning from them as much as I hope they learn from me. I believe that learning is about more than understanding knowledge; it's about encouraging students to think about and refine their perspectives, as well as their understanding of themselves. My goal is to support each student’s growth and inspire them on their own journeys of self-actualization, equipping them with the tools they need to think deeply and approach the world with a curious, informed mind.
+ <br>
+Currently, at Northwestern University, I serve as a graduate teaching assistant for courses including 
+ * Buddhist Psychology
+ * Relationship Science
+ * Social Psychology
+ * Positive Psychology: The Science of Well-Being. 
+<br>
+<br>
+<br>
+During my undergraduate studies at UCSD, I served as a teaching assistant for Research Methods and the Social Psychology Laboratory, where I helped students design their own psychology experiments and analyze data.
  
  
