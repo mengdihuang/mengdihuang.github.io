@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mengdi Huang"
 title_separator          : "-"
 name                     : &name "Mengdi Huang"
-description              : &description "M.A. Student at University of Chicago"
+description              : &description "Ph.D. Candidate at Northwestern University"
 url                      : https://mengdihuang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mengdihuang.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Mengdi Huang"
   avatar           : "mengdihuang.jpg"
-  bio              : "M.A. in Social Sciences at University of Chicago"
-  location         : "Chicago, IL"
+  bio              : "Ph.D. Candidate at Northwestern University"
+  location         : "Evanston, IL"
   employer         :
-  email            : "mengdih@uchicago.edu"
+  email            : "mengdih@u.northwestern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
