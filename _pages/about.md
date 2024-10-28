@@ -18,7 +18,7 @@ Broadly speaking, my research focuses on well-being, and I explore it from two m
 Before joining Northwestern, I collaborated with <a style = "text-decoration:none" href="https://voices.uchicago.edu/potentialslab/">Dr. Fan Yang</a> at University of Chicago on research examining how individuals evaluate what constitutes a good life. I received my B.S. from UCSD.
 <br>
 <br>
-In my free time, I enjoy thrifting, spending time with friends (and their dogs), taking photos of my friends (and their dogs), and exploring new restaurants in Chicago.
+In my free time, I enjoy thrifting, spending time with friends (and their dogs), taking photos for my friends (and their dogs), and exploring new restaurants in Chicago.
 
 <div style="float: left; width: 50%;">
 <ul>
