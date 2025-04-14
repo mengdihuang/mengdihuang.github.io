@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<a style = "text-decoration:none" href="https://mengdihuang.github.io/files/Mengdi Huang-cv-2021.pdf">CV</a>
+<a style = "text-decoration:none" href="https://mengdihuang.github.io/files/Huang_cv_042025.pdf">CV</a>
 
 I’m currently a Ph.D. candidate in social psychology at Northwestern University, where I work with Drs. Wendi Gardner and Daniel Molden. 
 <br>
