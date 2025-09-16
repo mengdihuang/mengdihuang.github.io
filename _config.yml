@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Mengdi Huang"
-  avatar           : "mengdihuang.jpg"
+  avatar           : "sp25_Huang_profile.jpg"
   bio              : "Ph.D. Candidate at Northwestern University"
   location         : "Evanston, IL"
   employer         :
   email            : "mengdih@u.northwestern.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Mengdi-Huang-6?ev=hdr_xprf" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,8 +100,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : 
+  linkedin         : "https://www.linkedin.com/in/mengdi-huang/"
+  orcid            : "https://orcid.org/0000-0003-3103-7407"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
