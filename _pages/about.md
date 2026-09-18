@@ -8,36 +8,32 @@ redirect_from:
   - /about.html
 ---
 <a style = "text-decoration:none" href="https://mengdihuang.github.io/files/Huang_cv_042025.pdf">CV</a>
-
-I’m currently a Ph.D. candidate in social psychology at Northwestern University, where I work with Drs. Wendi Gardner and Daniel Molden. 
+I'm a behavioral researcher and data scientist with a Ph.D. in Social Psychology from Northwestern University and a M.S. in Applied Statistics. I specialize in designing rigorous studies, analyzing behavioral and survey data at scale, and translating findings into insights that inform product, marketing, and people decisions.
 <br>
 <br>
-Broadly speaking, my research focuses on well-being, and I explore it from two main angles. The first line examines the intrapersonal perspective, focusing on how individuals' self-concept influences their decision-making processes and, subsequently, their well-being. The second line of research takes an interpersonal approach, exploring how individuals seek support and navigate conflict within their social networks.
-
+My work spans experimental design, A/B testing, survey methodology, and statistical modeling (regression, multilevel modeling, SEM, causal inference), using R and Python to analyze datasets ranging from hundreds to millions of records. I've applied NLP and clustering methods to study social network dynamics across 2M+ user profiles, designed and validated survey instruments across independent samples, and run discrete choice experiments and field studies to optimize engagement and experience metrics. I enjoy turning ambiguous behavioral questions into measurable, actionable insights for stakeholders with varying technical backgrounds.
 <br>
-Before joining Northwestern, I worked with <a style = "text-decoration:none" href="https://voices.uchicago.edu/potentialslab/">Dr. Fan Yang</a> at University of Chicago on research examining how individuals evaluate what constitutes a good life. I received my B.S. from UCSD, and was a part of <a style = "text-decoration:none" href="https://oveislab.com/">the Empathy and Emotion Lab</a>.
+<br>
+<b>Academic research:</b> My doctoral research, advised by Drs. Wendi Gardner and Daniel Molden, examined well-being from two angles: how self-concept shapes decision-making, and how people seek support and navigate conflict within their social networks. Before Northwestern, I worked with <a style = "text-decoration:none" href="https://voices.uchicago.edu/potentialslab/">Dr. Fan Yang</a> at the University of Chicago on how people evaluate what constitutes a good life. I received my B.S. from UCSD, where I was part of <a style = "text-decoration:none" href="https://oveislab.com/">the Empathy and Emotion Lab</a>.
 <br>
 <br>
 In my free time, I enjoy thrifting, spending time with friends (and their dogs), taking photos for my friends (and their dogs), and exploring new restaurants in Chicago.
-
 <div style="float: left; width: 50%;">
 <ul>
-<h2>Interests</h2>
-
-<li>Well-being</li>
-<li>Goal-support</li>
-<li>Self-Concept Clarity</li>
-<li>Social Network</li>
-<li>Gender Stereotyping</li>
-
+<h2>Core Skills</h2>
+<li>R &amp; Python</li>
+<li>A/B Testing &amp; Experimental Design</li>
+<li>Survey Design &amp; Statistical Modeling</li>
+<li>Causal Inference &amp; Regression</li>
+<li>NLP &amp; Clustering</li>
 </ul>
 </div>
 <div style="float: right; width: 50%;">
 <ul>
 <h2>Education</h2>
-<i class="fa fa-graduation-cap" aria-hidden="true"></i> Ph.D. in Social Psychology, 2026 (Expected) &nbsp;<span style="color:#8A8888">Northwestern University</span><br>
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> Ph.D. in Social Psychology, 2026 &nbsp;<span style="color:#8A8888">Northwestern University</span><br>
 <br>
-<i class="fa fa-graduation-cap" aria-hidden="true"></i> M.S. in Statistics, 2026 (Expected) &nbsp;<span style="color:#8A8888">Northwestern University</span><br>
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> M.S. in Statistics, 2026 &nbsp;<span style="color:#8A8888">Northwestern University</span><br>
 <br>
 <i class="fa fa-graduation-cap" aria-hidden="true"></i> M.A. in Social Sciences, 2020 &nbsp;<span style="color:#8A8888">University of Chicago</span><br>
 <br>
