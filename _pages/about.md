@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 <a style = "text-decoration:none" href="https://mengdihuang.github.io/files/Huang_cv_042025.pdf">CV</a>
+<br>
 I'm a behavioral researcher with a Ph.D. in Social Psychology from Northwestern University and a M.S. in Applied Statistics. I specialize in designing rigorous studies, analyzing behavioral and survey data at scale, and translating findings into insights that inform product, marketing, and people decisions.
 <br>
 <br>
