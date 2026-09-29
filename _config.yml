@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mengdi Huang"
 title_separator          : "-"
 name                     : &name "Mengdi Huang"
-description              : &description "Ph.D. Candidate at Northwestern University"
+description              : &description "Ph.D., Northwestern University"
 url                      : https://mengdihuang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mengdihuang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mengdi Huang"
   avatar           : "sp25_Huang_profile.jpg"
-  bio              : "Ph.D. Candidate at Northwestern University"
+  bio              : "Ph.D., Northwestern University"
   location         : "Evanston, IL"
   employer         :
   email            : "mengdih@u.northwestern.edu"
